@@ -1,0 +1,16 @@
+.content{
+	max-width: 1140px;
+	margin: 0 auto;
+	padding: 0 1em;
+}
+.row{
+	margin: 0 -1em;
+}
+.l-box {
+    padding: 0 1em;
+}
+.bg{
+	background-color: gray;
+	padding: 30px;
+	text-align: center;
+}
